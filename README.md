@@ -11,6 +11,10 @@
 如何获得工作经验呢? 
 
 - SRC (Security Response Center) 安全响应中心
+  - 华为安全奖励计划
+  - 腾讯 TSRC
+  - 阿里 SRC
 - CTF 竞赛活动 (XX杯)
 - 护网行动
+  - 任何手段，包括社工。
 
